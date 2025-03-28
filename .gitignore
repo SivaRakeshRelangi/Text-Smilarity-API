@@ -3,3 +3,40 @@
 *.dat
 *.csv
 *.zip
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
+
+.DS_Store
+# Python bytecode files
+*.pyc
+*.pyo
+
+# Virtual environment directories
+venv/
+env/
+
+# Log files
+*.log
+
+# Test output
+*.tox/
+*.nox/
+*.coverage
+
+# Data files you don't need to push
+*.csv
+*.dat
+*.json
+
