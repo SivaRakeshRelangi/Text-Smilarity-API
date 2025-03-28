@@ -1,5 +1,5 @@
 # Text-Smilarity-API
-## How to use API Just Follow these Steps
+## How to use API Just follow these Steps
  #### Download files app.py and requirements.txt
 ## Setup Instructions
 1. **Set Up Virtual Environment**:
@@ -17,7 +17,7 @@
    ```bash
    python app.py
 
-
+![AWS Lambda Function and S3 file storage](OutputTextScore.png)
 5. **Open the browser and go to:**:
    ```bash
    (http://127.0.0.1:5000)
