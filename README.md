@@ -31,4 +31,4 @@
 }
 
 
-![if we give Text1 and text2 we will get the Score](OutputTextScore.png)
+![ifwegiveText1andtext2wewillgettheScore](OutputTextScore.png)
