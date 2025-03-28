@@ -31,4 +31,9 @@
 }
 
 
+#d
+
+
+
+
 ![ifwegiveText1andtext2wewillgettheScore](OutputTextScore.png)
