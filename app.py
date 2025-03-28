@@ -27,9 +27,8 @@ def predict():
     text2 = data.get("text2", "")
     
     similarity_score = compute_similarity(text1, text2)
-
     return jsonify({"similarity score": similarity_score})
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5050, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
     
