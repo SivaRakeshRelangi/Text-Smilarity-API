@@ -23,4 +23,12 @@
    ```bash
    (http://127.0.0.1:5000/predict)
 
+ #### Request Body (JSON format):
+ ```bash
+ {
+    "text1": "The quick brown fox jumps over the lazy dog.",
+    "text2": "A fast fox leaps over a lazy dog."
+}
+
+
 ![if we give Text1 and text2 we will get the Score](OutputTextScore.png)
