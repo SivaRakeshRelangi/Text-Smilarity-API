@@ -6,7 +6,6 @@
    ```bash
    conda create -p envtext python=3.13 -y
 
-   ```bash
    conda activate ./envtext
 
 2. **Install Dependencies**:
