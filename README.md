@@ -23,13 +23,6 @@
    ```bash
    (http://127.0.0.1:5000/predict)
 
-** Request Body (JSON format):**
-   ```bash
-   python app.py
-
-
-#d
-
 
 
 
