@@ -31,3 +31,13 @@
 
 
 ![ifwegiveText1andtext2wewillgettheScore](OutputTextScore.png)
+
+
+
+# Another Way to get the Score bewteen two Texts using Google Collab and Dataset(Contains text1 and text2) 
+
+![ifwegiveText1andtext2wewillgettheScore](uploaddatasetcsvfile.png)
+
+![ifwegiveText1andtext2wewillgettheScore](usingdatasettesxtdatafindingscoreandformnewdataset.png)
+
+![ifwegiveText1andtext2wewillgettheScore](newdatasetcontainsscoreoftwotext.png)
