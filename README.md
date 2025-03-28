@@ -17,7 +17,9 @@
    ```bash
    python app.py
 
-![AWS Lambda Function and S3 file storage](OutputTextScore.png)
-5. **Open the browser and go to:**:
+
+5. **Open the postman and API URL is:**:
    ```bash
-   (http://127.0.0.1:5000)
+   (http://127.0.0.1:5000/predict)
+
+![if we give Text1 and text2 we will get the Score](OutputTextScore.png)
