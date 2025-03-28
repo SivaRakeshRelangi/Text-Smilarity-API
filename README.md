@@ -6,9 +6,14 @@
    ```bash
    conda create -p envtext python=3.13 -y
 
+   
+
+
+2. **Activate Environment**:
+   ```bash
    conda activate ./envtext
 
-2. **Install Dependencies**:
+3. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
 
