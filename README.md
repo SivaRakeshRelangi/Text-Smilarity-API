@@ -1,4 +1,6 @@
 # Text-Smilarity-API
+## How to use API Just Follow these Steps
+ #### Download files app.py and requirements.txt
 ## Setup Instructions
 1. **Set Up Virtual Environment**:
    ```bash
