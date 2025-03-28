@@ -2,26 +2,20 @@
 ## Setup Instructions
 1. **Set Up Virtual Environment**:
    ```bash
-   python -m venv chatenv
+   conda create -p envtext python=3.13 -y
    
-   chatenv\Scripts\activate
+   conda activate ./envtext
 
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirement.txt
+   pip install -r requirements.txt
 
 
-3. **Add Database Models**:
+3. **Run python**:
    ```bash
-   python manage.py makemigrations
-   python manage.py migrate
-
-
-4. **Run python**:
-   ```bash
-   python manage.py runserver
+   python app.py
 
 
 5. **Open the browser and go to:**:
    ```bash
-   (http://127.0.0.1:8000)
+   (http://127.0.0.1:5000)
