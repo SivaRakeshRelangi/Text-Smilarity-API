@@ -38,10 +38,10 @@
 
 ### Download Model.ipynb File Open in the Google collab
 
-** Upload Dataset File which has text1 and text2 to find similarites**
+**Upload Dataset File which has text1 and text2 to find similarites**
 ![ifwegiveText1andtext2wewillgettheScore](uploaddatasetcsvfile.png)
 
-** Run the File in Google collab You will get new file in the Folder Data **
+**Run the File in Google collab You will get new file in the Folder Data **
 ![ifwegiveText1andtext2wewillgettheScore](usingdatasettesxtdatafindingscoreandformnewdataset.png)
 
 ![ifwegiveText1andtext2wewillgettheScore](newdatasetcontainsscoreoftwotext.png)
